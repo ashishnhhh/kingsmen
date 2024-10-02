@@ -1,0 +1,59 @@
+
+
+/* navbar */
+
+.container-fluid{
+--bs-gutter-x: 0rem !important;
+}
+.custom-navbar-color{
+  background-color: #cea761;
+}
+
+
+/* header */
+.custom-header{
+  background: linear-gradient(to bottom,#cca55f, #e0bd7f);
+}
+
+/* service */
+.feature-icon{
+  background-color: #cea761;
+}
+
+.feature> .text-link{
+  color: #cea761 !important;
+}
+
+.feature> .feature-icon{
+  color: #cea761;
+  
+}
+
+/* we are help */
+.custom-pink{
+  background-color: #feedcb;
+}
+
+/* product */
+.custom-product{
+  background-color: #e1cba0;
+  margin-top: 4.5rem;
+}
+
+.image-product img {
+  position: relative;
+  box-shadow: 0px -10px 20px -5px #d1b379, 10px -10px 30px -10px #d1b37b;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Optional: On hover, increase the shadow effect and slightly scale the image */
+.image-product img:hover {
+  transform: scale(1.05);
+  box-shadow: 0px -15px 25px -5px #d1b379, 15px -15px 35px -10px #d1b37b;
+}
+
+.copyright-color{
+  color:#cea761;
+}
+
+
